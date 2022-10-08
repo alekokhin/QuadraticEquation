@@ -1,3 +1,5 @@
+//This is a model of table (class)
+//jbhvdfj
 package org.example.database.models;
 
 public class QuadraticDate {
