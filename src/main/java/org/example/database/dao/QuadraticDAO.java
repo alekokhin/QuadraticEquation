@@ -9,10 +9,13 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class QuadraticDAO implements IDate{
+    //Created quadratic DAO class and we implemented IDATA
     @Override
     public List<QuadraticDate> getAllquadraticDate(){
-        Connection connection = ConnectionPool.getInstance().retrieve();
-        List<QuadraticDate> quadraticDates = new ArrayList<>();
+        // We override getAllquadraticDate method
+        Connection connection = ConnectionPool.getInstance().retrieve();//We're choosing connection from ConnectionPool which use getInstance and retrieve method
+        List<QuadraticDate> quadraticDates = new ArrayList<>();//we created list of quadraticDates to put data inside this list
+       //we use Statement and ResultSet interfaces (jdbc interfaces)
         Statement statement =null;
         ResultSet resultSet=null;
         try {

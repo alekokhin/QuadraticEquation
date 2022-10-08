@@ -36,7 +36,6 @@ public class QuadraticEquation {
                 out.printf("\nx1 = %.2f+%.2fi ", real, imaginary);
                 out.printf("\nx2 = %.2f-%.2fi ", real, imaginary);
                 out.print(System.lineSeparator());
-
             }
         }out.close();//close file
     }
