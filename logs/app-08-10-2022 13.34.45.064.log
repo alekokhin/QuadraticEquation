@@ -1,0 +1,5 @@
+2022-10-08 13:34:46,270 INFO o.e.d.c.ConnectionPool [main] java.sql.SQLException: Access denied for user 'username'@'localhost' (using password: YES)
+2022-10-08 13:34:46,306 INFO o.e.d.c.ConnectionPool [main] java.sql.SQLException: Access denied for user 'username'@'localhost' (using password: YES)
+2022-10-08 13:34:46,335 INFO o.e.d.c.ConnectionPool [main] java.sql.SQLException: Access denied for user 'username'@'localhost' (using password: YES)
+2022-10-08 13:34:46,364 INFO o.e.d.c.ConnectionPool [main] java.sql.SQLException: Access denied for user 'username'@'localhost' (using password: YES)
+2022-10-08 13:34:46,390 INFO o.e.d.c.ConnectionPool [main] java.sql.SQLException: Access denied for user 'username'@'localhost' (using password: YES)

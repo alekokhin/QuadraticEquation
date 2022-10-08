@@ -1,0 +1,2 @@
+2022-10-07 17:55:58,436 INFO o.e.d.c.ConnectionPool [main] The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@278bb07e
+2022-10-07 17:55:58,467 INFO o.e.d.c.ConnectionPool [main] Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@278bb07e
